@@ -44,7 +44,6 @@ const Hero = () => {
 		start: "top top",
 		end: "bottom top",
 		scrub: true,
-        
 	 },
 	})
 	.to(".right-leaf", { y: 200 }, 0)
@@ -56,7 +55,7 @@ const Hero = () => {
 	
 	let tl = gsap.timeline({
 	 scrollTrigger: {
-		trigger: "video",
+		trigger: 'video',
 		start: startValue,
 		end: endValue,
 		scrub: true,
