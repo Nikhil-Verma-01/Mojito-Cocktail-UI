@@ -13,9 +13,7 @@
 
   <h3 align="center">Stunning GSAP Cocktail Website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -76,3 +74,25 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/Nikhil-Verma-01/Mojito-Cocktail-UI.git
+cd Mojito-Cocktail-UI
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
